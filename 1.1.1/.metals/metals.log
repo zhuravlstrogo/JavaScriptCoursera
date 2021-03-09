@@ -1,0 +1,23 @@
+[0m2021.02.17 12:24:57 INFO  Started: Metals version 0.9.10 in workspace '/Users/yan1/Downloads/JavaScriptCourseta/Part1Week1' for client vscode 1.53.0.[0m
+[0m2021.02.17 12:25:11 INFO  time: initialize in 13s[0m
+[0m2021.02.17 12:25:19 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.17 12:25:19 WARN  no build tool detected in workspace '/Users/yan1/Downloads/JavaScriptCourseta/Part1Week1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Feb. 17, 2021 12:25:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb. 17, 2021 12:25:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.02.17 12:29:15 INFO  shutting down Metals[0m

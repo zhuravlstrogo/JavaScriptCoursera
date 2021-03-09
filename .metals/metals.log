@@ -1,0 +1,10 @@
+[0m2021.02.17 12:31:43 INFO  Started: Metals version 0.9.10 in workspace '/Users/yan1/Downloads/JavaScriptCoursera' for client vscode 1.53.2.[0m
+[0m2021.02.17 12:31:51 INFO  time: initialize in 8.1s[0m
+[0m2021.02.17 12:31:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.17 12:31:56 WARN  no build tool detected in workspace '/Users/yan1/Downloads/JavaScriptCoursera'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.17 13:59:39 INFO  shutting down Metals[0m
+[0m2021.02.17 14:00:44 INFO  Started: Metals version 0.9.10 in workspace '/Users/yan1/Downloads/JavaScriptCoursera' for client vscode 1.53.2.[0m
+[0m2021.02.17 14:00:54 INFO  time: initialize in 9.56s[0m
+[0m2021.02.17 14:00:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.17 14:00:56 WARN  no build tool detected in workspace '/Users/yan1/Downloads/JavaScriptCoursera'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.18 11:56:05 INFO  shutting down Metals[0m
